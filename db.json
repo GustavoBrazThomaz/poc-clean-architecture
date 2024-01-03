@@ -1,0 +1,20 @@
+{
+  "list": [
+    {
+      "name": "React",
+      "body": "A JavaScript library for building user interfaces"
+    },
+    {
+      "name": "Angular",
+      "body": "A TypeScript-based Framework"
+    },
+    {
+      "name": "Vue.js",
+      "body": "A JavaScript Framework for building user interfaces"
+    },
+    {
+      "name": "Svelte",
+      "body": "A component-based JavaScript framework"
+    }
+  ]
+}
